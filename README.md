@@ -1,3 +1,5 @@
+# Tinder Clicker !
+
 A Script to automate clicks on Tinder
 
 
