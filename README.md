@@ -1,3 +1,5 @@
+A Script to automate clicks on Tinder
+
 
 You need to install the pynput library for this script using pip.
 
